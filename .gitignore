@@ -1,0 +1,10 @@
+﻿# Files over GitHub's 100 MB limit (not tracked)
+/comments_clean_final.csv
+
+# Misc
+.Rhistory
+.ipynb_checkpoints/
+~$*
+*.bak
+Thumbs.db
+.DS_Store
