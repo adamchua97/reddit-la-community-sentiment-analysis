@@ -11,6 +11,9 @@ Graduate text mining project · Individual contribution: sentiment analysis comp
 | **498,147** | **4** | **39.9 pts** | **70.0%** |
 | comments analysed | sentiment methods compared | spread on identical text | best model accuracy |
 
+> [!IMPORTANT]
+> **Google Drive environment:** The programming work in this analysis was performed in a Google Drive file environment and folder structure (via Google Colab). The setup for file inputs and outputs in the notebooks was therefore based on working in Google Drive. To re-run the notebooks, either recreate that Drive folder structure or update the file paths to match your own environment.
+
 ---
 
 ## Overview
